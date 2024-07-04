@@ -9,4 +9,4 @@ the error message
 
 version 4.42 compiles the code without problems.
 
-This issue is fixes with https://github.com/typetools/checker-framework/pull/6692.
+This issue is fixed with https://github.com/typetools/checker-framework/pull/6692.
