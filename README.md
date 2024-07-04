@@ -8,3 +8,5 @@ the error message
     Error in AnnotatedTypeMirror.fromExpression(RegexAnnotatedTypeFactory, either.map(Arrays::asList)): Enclosing type not found: type: Object supertype: Either<A extends Object, B extends Object>
 
 version 4.42 compiles the code without problems.
+
+This issue is fixes with https://github.com/typetools/checker-framework/pull/6692.
